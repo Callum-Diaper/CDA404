@@ -1,0 +1,43 @@
+p {
+    font-size: 15px;
+    text-align: center;
+}
+
+    
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+nav {
+    background-color: #3944BC;
+    padding: 0% 1% 1% 1%;
+}
+
+nav ul {
+    margin: 0 auto;
+    width: 45%;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10%;
+}
+
+
+#footer {
+    background-color: #3944BC;
+}
+
+main_section {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    left: 40%;
+    position: relative;
+}
